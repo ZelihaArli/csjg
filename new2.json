@@ -817,5 +817,18 @@
       { "text": "D) Yolcu", "isTrue": false }
     ],
     "description": "Yol, kazalara neden olan fiziksel bir unsurdur, insan değildir."
-  }
+  },
+  {
+  "id": 64,
+  "category": "İlkyardım",
+  "question": "Aşağıdakilerden hangisi olay yerine gelen ilk yardımcının hayat kurtarma zincirinde görevlerindendir?",
+  "image_url": null,
+  "options": [
+    { "text": "A) Sağlık kuruluşuna haber vermek", "isTrue": true },
+    { "text": "B) Tıbbi araç gereçlerle müdahale yapmak", "isTrue": false },
+    { "text": "C) Kazaya uğrayan aracı güvenli bir yere çekmek", "isTrue": false },
+    { "text": "D) Olay yerini değerlendirmeden önce yaralıların durumlarını değerlendirmek", "isTrue": false }
+  ],
+  "description": "Hayat kurtarma zincirinin ilk iki halkası (haber verme ve temel yaşam desteği) olay yerindeki ilk yardımcının sorumluluğundadır. Sağlık kuruluşuna haber vermek bu zincirin ilk ve en kritik adımıdır."
+}
 ]
